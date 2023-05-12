@@ -1,4 +1,4 @@
-# Cartola-FC-EDA-e-Clusteriza-o-dos-Jogadores
+# Cartola FC EDA e Clusterização dos Jogadores
 
 Análise realizada sobre o fantasy game cartola fc do ano de 2022 com os scouts da 38° rodada.
 
